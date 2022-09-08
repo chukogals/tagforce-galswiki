@@ -1,4 +1,4 @@
-![logo](_media/icon.png)
+<img src= "_media/icon.png" width = "150" height = "150">
 
 ## Tag Force Gals Wiki
 
