@@ -1,6 +1,6 @@
-# 游戏王卡片力量 Tag Force 系列 NPC 女性角色 Wiki
+# TAG FORCE GALS Wiki
 
-![Banner待重制](https://img.chukogals.tk/file/taggals/2022/09/202209081048223.jpeg)
+**（游戏王卡片力量 Tag Force 系列 NPC 女性角色 Wiki）**
 
 本Wiki主要介绍科乐美以游戏王GX、5DS两部动画（前6部）为基础构建的TCG-RPG系列游戏《游戏王 怪兽之决斗GX TAG FORCE》（《遊☆戯☆王デュエルモンスターズGX タッグフォース》）系列作品中，Duel list 3下合计48位女性角色的介绍。
 
@@ -29,11 +29,16 @@
 
 本Wiki内容主要参考自：
 
-TF1-TF3
+TF1-TF3：
+
 https://w.atwiki.jp/1548908-tf3/pages/17.html （DU3：オベリスク・ブルー 女子）
-TF4-TF6
+
+TF4-TF6：
+
 https://w.atwiki.jp/1548908-tf4/pages/14.html （D2：一般キャラクター）
-TFSP
+
+TFSP：
+
 https://w.atwiki.jp/tfsp/pages/17.html
 
 ## GX Tag Force NPC女性角色

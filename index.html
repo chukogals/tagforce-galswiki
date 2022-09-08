@@ -1,44 +1,25 @@
+<!-- index.html -->
+
 <!DOCTYPE html>
 <html lang="zh">
+<html>
 <head>
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
-   <meta name="description" content="This is my collection!">
-   <title></title>
-
-   <!-- Themes (light + dark) -->
-   <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-   <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-
-   <!-- Custom Styles -->
-   <style>
-     :root {
-       /* --theme-hue: 325; */
-     }
-   </style>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
 </head>
 <body>
-   <div id="app">加载中</div>
-
-   <script>
-     // Docsify Configuration
-       window.$docsify = {
+  <div id="app">加载中</div>
+  <script>
+    window.$docsify = {
        loadSidebar: true,
        alias: {
        '/.*/_sidebar.md': '/_sidebar.md'
        }
        subMaxLevel: 2
-     };
-   </script>
-
-   <!-- Required -->
-   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
-
-   <!-- Recommended -->
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
