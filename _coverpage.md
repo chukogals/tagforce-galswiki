@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_media/icon.png)
 
 ## Tag Force Gals Wiki
 
