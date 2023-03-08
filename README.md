@@ -41,7 +41,7 @@ TF2开始，通关一次后还是可以开语音鉴赏，但是并不能听T3的
 
 开发阶段设定有女小红帽（在TF3 三泽大地ED未使用图中有），但后来正式版只留下了男小红帽。
 
-<img src="https://img.chukogals.tk/file/taggals/2022/09/a7040b664b69247cea86aec129086c1a.png"/>
+<img src="https://img.chukogals.tk/2022/09/a7040b664b69247cea86aec129086c1a.png"/>
 
 ## TF 5DS（TAG FORCE 4-6）
 
@@ -89,7 +89,7 @@ Tag Force 4开始为5DS篇。TF4开始的原创角色共有25人，按形象可�
 
 直说的话，就是22年9月7日上架的Cross-Duel的英文报道里面的一张图。
 
-![](https://img.chukogals.tk/file/taggals/2022/09/202209081630496.jpeg)
+![](https://img.chukogals.tk/2022/09/202209081630496.jpeg)
 
 看到Cross图片中与NPC搭档的三人的头像了吗？
 
