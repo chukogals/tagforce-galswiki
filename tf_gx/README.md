@@ -16,7 +16,7 @@ TFGX是以《游戏王 怪兽之决斗GX》剧情为基础设计的PSP游戏《�
 
 ## 1 加藤友纪 <!-- {docsify-ignore} -->
 
-<img src="https://img.chukogals.tk/2022/09/202209082053513.png" width = "150" height = "150" >
+<img src="https://img.20342053.xyz/2022/09/202209082053513.png" width = "150" height = "150" >
 
 - CV：水野理紗
 - 日语名：加藤友紀
